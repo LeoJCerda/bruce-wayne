@@ -1,0 +1,214 @@
+.general{
+    display: flex;
+    width: 1440px;
+    height: 1024px;
+ 
+    
+}
+.fondo{
+    height: 188.19px;
+    width: 1440px;
+    position: absolute;
+    display: flex;
+    background-color: #e6e6e6;
+
+
+}
+.logo{
+    position: absolute;
+    left: 670px;
+    order: 10;
+    width: 100px;
+    height: 146.37px;
+    top: 21px;
+}
+
+.fondo-titulo{
+        position: absolute;
+        display: flex;
+        width: 1440px;
+        height: 60px;
+        top: 188px;
+        background-color: #c4c4c4;
+        order: 9;
+}
+.titulo{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 1013px;
+    height: 30px;
+    top: 202.13px;
+    left: 213px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #005677;  
+    font-feature-settings: "cpsp";  
+   
+    order: 11;
+    
+}
+.fondo-datos{
+    position: absolute;
+    display: flex;
+    justify-content: centers;
+    top: 376px;
+    left: 10px;
+
+    background-color: #c4c4c4;
+    width: 1440px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.titulo-datos{
+    position: absolute;
+    display: flex;
+    width: 395.62px;
+    height: 17px;
+    color: #005677;
+    left: 20px;
+    top: 380px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-feature-settings: "cpsp" on;
+
+
+}
+.item{
+    display: flex;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    left: 40px;
+
+  
+    
+
+}
+.i1{
+    width: 199px;
+    height: 13px;
+    display: flex;
+    top: 424px;
+
+}
+.i2{
+    top: 447px;
+}
+.i3{
+    top: 470px;
+}
+.fondo-formacion{
+    position: absolute;
+    display: flex;
+    justify-content: centers;
+    top: 518px;
+    left: 10px;
+
+    background-color: #c4c4c4;
+    width: 1440px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.titulo-formacion{
+    position: absolute;
+    display: flex;
+    width: 395.62px;
+    height: 17px;
+    color: #005677;
+    left: 20px;
+    top: 524px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-feature-settings: "cpsp" on;
+
+
+}
+
+.f1{
+    width: 350px;
+    height: 34px;
+    display: flex;
+    top: 567px;
+
+}
+.f2{
+    width: 350px;
+    height: 34px;
+    top: 611px;
+}
+.fondo-experiencia{
+    position: absolute;
+    display: flex;
+    justify-content: centers;
+    top: 673px;
+    left: 10px;
+
+    background-color: #c4c4c4;
+    width: 1440px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.titulo-experiencia{
+    position: absolute;
+    display: flex;
+    width: 395.62px;
+    height: 17px;
+    color: #005677;
+    left: 20px;
+    top: 679px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-feature-settings: "cpsp" on;
+
+
+}
+
+.e1{
+    width: 655px;
+    height: 32px;
+    display: flex;
+    top: 722px;
+
+}
+.e2{
+    width: 655px;
+    height: 32px;
+    top: 766px;
+}
+.e3{
+    top: 808px;
+    width: 655px;
+    height: 32px;
+
+}
+.contenedor{
+    position: absolute;
+    display: flex;
+}
+.pie{
+    position: absolute;
+    width: 1440px;
+    height: 37px;
+    background-color: #005677;
+    top: 987px;
+  
+}
+.info{
+    position: absolute;
+    justify-content: center;
+   
+    width: 145px;
+    height: 37px;
+    color: rgb(252, 250, 250);
+    top: 995px;
+    left: 601px;
+}
